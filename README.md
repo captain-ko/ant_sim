@@ -1,1 +1,4 @@
 <p>I made this ant model simulation as a project for my mathematical modeling class. It was a good way to practice system design with entity component systems. The ants have no knowledge of where food is, and simply follow pheromone trails left by other ants. They do know where home is, and leave a stronger path on return, so naturally ants tend to find food nodes and stick with only a couple. There are also some more interesting features I want to add, like a UI, interaction, population growth and decay, and even predators. I had a lot of fun making this.<p>
+
+<img width="1000" height="746" alt="Screen Shot 2026-10-13 at 1 38 35 AM" src="https://github.com/user-attachments/assets/5d1db182-09e1-404c-9739-ab1f84449bec" />
+
