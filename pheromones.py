@@ -8,7 +8,7 @@ class PheromoneMap:
         self.width = screen_width
         self.height = screen_height
     def fade(self):
-        self.map = .9995 * self.map
+        self.map *= .9995
 
     def splat(self, ant_position: Position, intensity: float):
         cell_x = round(ant_position.x)

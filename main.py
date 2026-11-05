@@ -96,6 +96,8 @@ while running:
 
     clock.tick(60)
 
+    pygame.display.set_caption(f"Ant Sim - {clock.get_fps():.1f} FPS")
+
 pygame.quit()
 
 sys.exit()
